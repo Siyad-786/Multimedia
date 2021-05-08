@@ -32,7 +32,7 @@ body {
 }
 
 .banner {
-    height: 200px;
+    height: 150px;
     background: url(Moonfade.jpg) center no-repeat
 }
 
@@ -290,7 +290,7 @@ input[type=submit]:hover {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 300px) {
     .banner {
         background: url(Moonfade.jpg) top center no-repeat
     }
